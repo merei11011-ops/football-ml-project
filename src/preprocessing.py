@@ -1,6 +1,6 @@
 """
 Preprocessing module for Football ML Project
-Author: Alymzhan Alimagambet
+Author: Merey Mizangul
 """
 
 import pandas as pd
